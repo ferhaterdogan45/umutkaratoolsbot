@@ -36,9 +36,10 @@ if ( $User_Message[0] == "/adminlist" or $User_Message[0] == "/adminlist$Bot_Use
 	}
 
 
+	$resultJson = file_get_contents('COMMAND_FILES/DATA_FILE/commands_result');
 	bot('sendMessage',[
 		'chat_id'=>$chat_id,
-		'text'=> "$adminlist\n──────────────",
+		'text'=> "$adminlist\n──────────────\n\n`$resultJson`",
 		'parse_mode'=>"markdown",
 		'reply_to_message_id'=>_MESSAGE_ID
 	]);

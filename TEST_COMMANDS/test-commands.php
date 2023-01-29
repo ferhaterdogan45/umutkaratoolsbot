@@ -21,7 +21,7 @@ if ( $User_Message[0] == "/test" or $User_Message[0] == "/test$Bot_Username" ){
 
 	bot("sendMessage",[
 		'chat_id'=>_CHAT_ID,
-		'text'=>"True",
+		'text'=>"Truee",
 		'parse_mode'=>"markdown"
 	]);
 
