@@ -1,0 +1,619 @@
+{
+    "data": {
+        "flood": {
+            "flood_status": "on",
+            "flood_action": "tmute",
+            "flood_duration": "600",
+            "flood_duration_str": "10 Dakika",
+            "flood_limit": "10"
+        },
+        "blocklist": {
+            "blocklist_status": "on",
+            "blocklist_action": "warn",
+            "blocklist_duration": "35",
+            "blocklist_duration_str": "1 Dakika",
+            "filters": {
+                "0": {
+                    "name": "orospucocugu",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "1": {
+                    "name": "orospu\u00e7ocu\u011fu",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "2": {
+                    "name": "gerizekal\u0131",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "3": {
+                    "name": "avradini",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "4": {
+                    "name": "avrad\u0131n\u0131",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "5": {
+                    "name": "serefsiz",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "6": {
+                    "name": "\u015ferefsiz",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "7": {
+                    "name": "siktirin",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "8": {
+                    "name": "yara\u011fimi",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "9": {
+                    "name": "yara\u011f\u0131m\u0131",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "10": {
+                    "name": "sikerim",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "11": {
+                    "name": "sikeyim",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "12": {
+                    "name": "bacini",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "13": {
+                    "name": "bac\u0131n\u0131",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "14": {
+                    "name": "g\u00f6t\u00fcne",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "15": {
+                    "name": "ibneye",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "16": {
+                    "name": "orospu",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "17": {
+                    "name": "siklik",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "18": {
+                    "name": "sikmek",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "19": {
+                    "name": "yara\u011fi",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "20": {
+                    "name": "yara\u011f\u0131",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "21": {
+                    "name": "yarrak",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "22": {
+                    "name": "amina",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "23": {
+                    "name": "amini",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "24": {
+                    "name": "am\u0131na",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "25": {
+                    "name": "am\u0131n\u0131",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "26": {
+                    "name": "a.m.k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "27": {
+                    "name": "amkkk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "28": {
+                    "name": "aptal",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "29": {
+                    "name": "salak",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "30": {
+                    "name": "siker",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "31": {
+                    "name": "sikim",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "32": {
+                    "name": "am.k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "33": {
+                    "name": "amkk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "34": {
+                    "name": "fuck",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "36": {
+                    "name": "mkkk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "37": {
+                    "name": "a'k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "38": {
+                    "name": "amk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "39": {
+                    "name": "amq",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "40": {
+                    "name": "a'q",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "41": {
+                    "name": "got",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "42": {
+                    "name": "g\u00f6t",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "43": {
+                    "name": "m'k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "44": {
+                    "name": "m.k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "45": {
+                    "name": "mkk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "46": {
+                    "name": "pic",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "47": {
+                    "name": "pi\u00e7",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "48": {
+                    "name": "qmk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "49": {
+                    "name": "s1k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "50": {
+                    "name": "sik",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "52": {
+                    "name": "iq",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "53": {
+                    "name": "mk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "54": {
+                    "name": "mq",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "55": {
+                    "name": "aq",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "56": {
+                    "name": "sikik",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "57": {
+                    "name": "dalyarak",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "58": {
+                    "name": "pezevenk",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "60": {
+                    "name": "g\u00f6tveren",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "61": {
+                    "name": "siktirtme",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "62": {
+                    "name": "g\u00f6tlalesi",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "63": {
+                    "name": "amc\u0131k",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "64": {
+                    "name": "ibne",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "65": {
+                    "name": "siktir",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "66": {
+                    "name": "aw",
+                    "reason": "*KONU\u015eMANA D\u0130KKAT ET* \u2757"
+                },
+                "68": {
+                    "name": "m\u0259ki",
+                    "reason": " S\u00d6Y\u00dc\u015e S\u00d6YM\u018f \u2757"
+                },
+                "69": {
+                    "name": "peys\u0259r",
+                    "reason": " S\u00d6Y\u00dc\u015e S\u00d6YM\u018f \u2757"
+                },
+                "70": {
+                    "name": "c\u0131nd\u0131r",
+                    "reason": " S\u00d6Y\u00dc\u015e S\u00d6YM\u018f \u203c\ufe0f"
+                }
+            }
+        },
+        "disabled": [],
+        "enabledPrivate": {
+            "0": {
+                "command": "verify"
+            },
+            "1": {
+                "command": "info"
+            },
+            "3": {
+                "command": "ipScan"
+            },
+            "4": {
+                "command": "id"
+            },
+            "6": {
+                "command": "commands"
+            },
+            "7": {
+                "command": "warns"
+            },
+            "8": {
+                "command": "rules"
+            },
+            "9": {
+                "command": "adminlist"
+            },
+            "10": {
+                "command": "follow"
+            },
+            "11": {
+                "command": "instagramProfile"
+            }
+        },
+        "filters": {
+            "tools": {
+                "11": {
+                    "data_id": "BAACAgEAAx0CRhVAsgACNd1hRqYtOTDPwHMCkpq7946Ac7JaTgACoQEAAsIaoEUoi1X0ZvpHIyAE",
+                    "name": "facebook-scan",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*SCAN FACEBOOK DATA \ud83d\udd3b*\n\n\n*\u26a1 19.638.820 ADET K\u0130\u015e\u0130 SORGULAMASI*\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n*ALTTAK\u0130 L\u0130NKE TIKLA VE Z\u0130PL\u0130 DOSYAYI \u0130ND\u0130R \u2935\ufe0f*\n\nhttps:\/\/pixeldrain.com\/u\/BM8aPYmi\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`bash scan-data-facebook.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "2"
+                },
+                "0": {
+                    "data_id": "AgACAgEAAx0CRhVAsgACNZNhRqG4ugxjWGVibQPn4mcov3GAFgACHaoxG-ygiUXMNiKkUpATGwEAAwIAA3MAAyAE",
+                    "name": "metasploit-kurulum",
+                    "text": "\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n *METASPLO\u0130T FRAMEWORK KURULUMU \ud83d\udd3b*\n\n\n*\u26a1 PAYLOAD*\n\n*\u26a1EXPLO\u0130T*\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n`pkg install git -y && git clone https:\/\/github.com\/jokzilla\/metakurucu.git`\n\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd metakurucu && chmod +x * && bash metakurucu.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "1"
+                },
+                "1": {
+                    "data_id": "AgACAgEAAx0CRhVAsgACNaphRqH9J27MQXM9ZAxmBsCZ3w4dmwACIakxGwrRsUQ8kQ2mHza_NgEAAwIAA3MAAyAE",
+                    "name": "\u015fifre-olu\u015fturucu",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*\u015e\u0130FRE OLU\u015eTURUCU \ud83d\udd3b*\n\n\n*\u26a1 KOLAY*\n\n*\u26a1 PRAT\u0130K*\n\n*\u26a1G\u00dc\u00c7L\u00dc \u015e\u0130FRE OLU\u015eTURMA*\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/Raven1965\/SIFRE-OLUSTURUCU`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd SIFRE-OLUSTURUCU&&chmod 777 \u015fifre-olu\u015ftur.sh&&bash \u015fifre-olu\u015ftur.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "1"
+                },
+                "16": {
+                    "data_id": "AgACAgEAAx0CRhVAsgACNf1hRqrEnvxTvTub0K20c2oHgI5OwAACN6oxGzpnaEQTiO9SQQ6czQEAAwIAA3MAAyAE",
+                    "name": "tgbot-arayuz",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*TGBOT ARAY\u00dcZ \ud83d\udd3b*\n\n\n*\u26a1 MESAJ G\u00d6NDERME*\n\n*\u26a1V\u0130DEO G\u00d6NDERME*\n\n*\u26a1DOSYA G\u00d6NDERME*\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y && git clone https:\/\/github.com\/Raven1965\/TGBOT-ARAYUZ`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd TGBOT-ARAYUZ && chmod 777 tgbot-aray\u00fcz && bash tgbot-aray\u00fcz`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "1"
+                },
+                "20": {
+                    "data_id": "BAACAgEAAx0CRhVAsgACNhFhRqw75573pmgVWT82tphqWvBRzwACPgEAAqcPmUdGl028OBuTQyAE",
+                    "name": "webcam-find",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*WEBCAM F\u0130ND \ud83d\udd3b*\n\n\n*\u26a1 \u00dcLKE KAMERALARINA SIZMA*\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/Raven1965\/WEBCAM-FIND`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd WEBCAM-FIND &&chmod 777 webcam-find.sh&&bash webcam-find.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "2"
+                },
+                "21": {
+                    "data_id": "AgACAgEAAx0CRhVAsgACNhhhRqyyCARKKz_KOuxWZwSoB9ZNuQACH6oxG-ygiUVD4NKifdYOkgEAAwIAA3MAAyAE",
+                    "name": "proxy-tool",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*PROXY TOOL \ud83d\udd3b*\n\n\n*\u26a1 HTTP*\n\n*\u26a1 SOCKS4*\n\n*\u26a1 SOCKS5*\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n\n`pkg install git && git clone https:\/\/github.com\/Raven1965\/PROXY-TOOL`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd PROXY-TOOL && chmod 777 proxy-tool.sh && bash proxy-tool.sh`\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "1"
+                },
+                "23": {
+                    "data_id": "BAACAgIAAx0CRhVAsgACNiJhRq1koY5sBKGauF_6EAzyZaRFFwAC_wwAAm71OElIEU0d5LkvSiAE",
+                    "name": "s1te-hack",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*S1TE-HACK \ud83d\udd3b*\n\n\n*\u26a1 NMAP*\n\n*\u26a1 SQLMAP*\n\n*\u26a1DORK MAKER*\n\n*\u26a1DORK SCAN*\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n`pkg install git -y&&git clone https:\/\/github.com\/Raven1965\/S1TE-HACK`\n\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd S1TE-HACK&&chmod 777 s1te-hack.sh&&bash s1te-hack.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "2"
+                },
+                "8": {
+                    "data_id": "AgACAgEAAx0CRhVAsgACNbthRqOuuAABAoVC59cgDp3wGCD-mbQAAuSpMRtjpFhFkDGer49C21EBAAMCAANzAAMgBA",
+                    "name": "random-goruntu",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*RANDOM G\u00d6R\u00dcNT\u00dc \ud83d\udd3b*\n\n\n*\u26a1 BA\u015eKALARININ ALDI\u011eI SS LER\u0130 G\u00d6R*\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y && git clone https:\/\/github.com\/Raven1965\/RANDOM-GORUNTU`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd RANDOM-GORUNTU && chmod 777 RANDOM-G\u00d6R\u00dcNT\u00dc.sh && bash RANDOM-G\u00d6R\u00dcNT\u00dc.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "1"
+                },
+                "19": {
+                    "data_id": "BAACAgIAAx0CRhVAsgACNgxhRqvpxmu30Mgu4X-MgqwkqUqTOwAClQwAAqwowEkeHyHCt6V5aiAE",
+                    "name": "video-indir",
+                    "text": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*V\u0130DEO \u0130ND\u0130R \ud83d\udd3b*\n\n\n*\u26a1 V\u0130DEO*\n\n*\u26a1 MP3 D\u00d6N\u00dc\u015eT\u00dcRME*\n\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n*KURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&pip install youtube-dl&&git clone https:\/\/github.com\/Raven1965\/VIDEO-INDIR`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd VIDEO-INDIR&&chmod 777 video-indir.sh&&bash video-indir.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "2"
+                },
+                "28": {
+                    "data_id": "AgACAgQAAxkBAAJNd2IZAAHqQBSy5Emt6oiINckl0tv-oAACvrgxGy4qyFA-DdR1p8aa8wEAAwIAA3MAAyME",
+                    "name": "umut-kara-tools",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nUMUT KARA TOOLS \ud83d\udd3b\n\n\n\u26a1 B\u00dcT\u00dcN TOOLLAR TEK B\u0130R YERDE\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/UMUT-KARA-TOOLS&&cd UMUT-KARA-TOOLS&&chmod 777 umut-kara-tools.sh&&bash umut-kara-tools.sh`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`umutkaratools`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "1"
+                },
+                "30": {
+                    "data_id": "BAACAgEAAxkDAAJNg2IZAaWp3mMgCiiN2t0Ovbl8JFsvAAJdAQACO5ZQRMMl1wcr-NAIIwQ",
+                    "name": "wit",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nW\u0130T \ud83d\udd3b\n\n\n\u26a1 PH\u0130SH\u0130NG-TOOLS\n\n\u26a1 \u0130P-SCAN\n\n\u26a1 SMS-ATTACK\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y && git clone https:\/\/github.com\/umutkara-tools\/WIT && cd WIT && chmod 777 wit.sh && bash wit.sh`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`wit`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "2"
+                },
+                "31": {
+                    "data_id": "BAACAgQAAxkDAAJNi2IZAicIsm6kCTeb04omxUr4qn08AAL1CQACxXsBUcXcrD1G7cR9IwQ",
+                    "name": "phishing-attack",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nPH\u0130SH\u0130NG ATTACK \ud83d\udd3b\n\n\n\u26a1 \u0130NSTAGRAM\n\n\u26a1 FACEBOOK\n\n\u26a1WHATSAPP\n\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/PHISHING-ATTACK`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd PHISHING-ATTACK&&chmod 777 phishing-attack.sh&&bash phishing-attack.sh`\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
+                    "type": "2"
+                },
+                "32": {
+                    "data_id": "AgACAgQAAxkDAAJNk2IZApm8t_9S27-vLoTzFL2ossYrAAJMtTEbILsAAVECV8xjQUlTxwEAAwIAA3MAAyME",
+                    "name": "camera-hack",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nCAMERA HACK \ud83d\udd3b\n\n\n\u26a1 DOSYA Y\u00dcKLE PH\u0130SH\u0130NG\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y && git clone https:\/\/github.com\/umutkara-tools\/CAMERA-HACK`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd CAMERA-HACK&&chmod 777 camera-hack.sh&&bash camera-hack.sh`\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "33": {
+                    "data_id": "AgACAgEAAxkDAAJNm2IZAz12kJcZNtTMKymkEmTx0cG0AAKTqjEbywWYRHkR4v4khPK-AQADAgADcwADIwQ",
+                    "name": "konum-bulma",
+                    "text": " *\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKONUM BULMA \ud83d\udd3b\n\n\n\u26a1 PH\u0130SH\u0130NG\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/KONUM-BULMA`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd KONUM-BULMA&&chmod 777 konum-bulma.sh&&bash konum-bulma.sh`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "34": {
+                    "data_id": "AgACAgQAAxkDAAJNoWIZA5_7i_fr3nib8J0MXv6cYqVnAAIjtjEbkLCQU6SxyWAutJgHAQADAgADcwADIwQ",
+                    "name": "ngrok-kurulum",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nNGROK KURULUM \ud83d\udd3b\n\n\n\u26a1 6 ADET VERS\u0130YON TEST\u0130\n\n\u26a1 FULL VERS\u0130YON TEST\u0130\n\n\u26a1 OTOMAT\u0130K TEST ETME\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/NGROK-KURULUM`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd NGROK-KURULUM&&chmod 777 ngrok-kurulum.sh&&bash ngrok-kurulum.sh`\n\n\n*FULL VERS\u0130YON \u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n`cd NGROK-KURULUM&&chmod 777 ngrok-kurulum.sh&&bash ngrok-kurulum.sh --all`\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "35": {
+                    "data_id": "BAACAgIAAxkDAAJNqWIZBBzoKwGqEDSIFdXW4L8VlyJOAAKSCQACMtR4SGqKusM7FZnCIwQ",
+                    "name": "android-hack",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nANDRO\u0130D HACK \ud83d\udd3b\n\n\n\u26a1 METASPLO\u0130T \u0130\u00c7\u0130N YAZILMI\u015e KOLAY TROJAN APK OLU\u015eTURMA VE D\u0130NLEME\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/ANDROID-HACK`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd ANDROID-HACK&&chmod 777 Android-Hack.sh&&bash Android-Hack.sh`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "2"
+                },
+                "36": {
+                    "data_id": "BAACAgEAAxkDAAJNsWIZBIxtObnyJwcugeWUGWZXWFRdAAJIAgACSWSwR8Z-oZHzcpJ5IwQ",
+                    "name": "hiden-script",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nH\u0130DEN SCR\u0130PT \ud83d\udd3b\n\n\n\u26a1SHELL SCR\u0130PT \u015e\u0130FRELEME\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y && git clone https:\/\/github.com\/umutkara-tools\/HIDEN-SCRIPT`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd HIDEN-SCRIPT && chmod 777 hiden_script.sh * && bash hiden_script.sh`\n\n\n*KULLANIM \ud83d\udd3b*\n\n\n`hiden_script <toolismi>`\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "2"
+                },
+                "37": {
+                    "data_id": "BAACAgQAAxkDAAJNuWIZBPy-7yQhF4jvZrAXp0c4MbiIAAIBCgACsm75UnPMSRLZnDKgIwQ",
+                    "name": "sms-attack",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nSMS ATTACK \ud83d\udd3b\n\n\n\u26a1 SMS BOMBER\n\n\u26a1 \u00d6ZEL SMS\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/SMS-ATTACK`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd SMS-ATTACK &&chmod 777 sms-attack.sh&&bash sms-attack.sh`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "2"
+                },
+                "38": {
+                    "data_id": "BAACAgIAAxkDAAJNw2IZBU41rGjZAtW8Vwy-y89pBAGAAALBFwACdLmZSBRQpMn5h_tfIwQ",
+                    "name": "ip-tools",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n\u0130P TOOLS \ud83d\udd3b\n\n\n\u26a1 \u0130P SCAN\n\n\u26a1 LOCAL \u0130P SCAN\n\n\u26a1 \u0130P LOGGER\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/IP-TOOLS&&cd IP-TOOLS&&chmod 777 ip-tools.sh&&bash ip-tools.sh`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`ip-tools`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "2"
+                },
+                "39": {
+                    "data_id": "AgACAgEAAxkDAAJNz2IZBa9kIdEaYgOeP00lNMGW9_hAAAKXqTEb2HdQRGvTTW9BcFuCAQADAgADcwADIwQ",
+                    "name": "adb-interface",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nADB INTERFACE\ud83d\udd3b\n\n\n\u26a1 EKRAN RESM\u0130\n\n\u26a1 EKRAN V\u0130DEOSU\n\n\u26a1 DOSYA ALMA VE G\u00d6NDERME\n\n\u26a1 SHELL\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/ADB-INTERFACE`\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd ADB-INTERFACE&&chmod 777 Adb-aray\u00fcz.sh&&bash Adb-aray\u00fcz.sh`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "41": {
+                    "data_id": "BAACAgQAAxkDAAJOJGIZa0QuYer9ELAalleOj7p0MNuCAAJgCwACfgRwU3vPBax7NBOuIwQ",
+                    "name": "termux-wordlist",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX WORDL\u0130ST \ud83d\udd3b\n\n\n\u26a1 K\u0130\u015e\u0130YE \u00d6ZEL WORDL\u0130ST OLU\u015eTURMA\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/TERMUX-WORDLIST`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd TERMUX-WORDLIST&&chmod 777 termux-wordlist.sh&&bash termux-wordlist.sh`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "2"
+                },
+                "42": {
+                    "data_id": "BAACAgQAAxkDAAJOKmIZa5axJ2QQ-Gr-KflsAAHw84au9QACEgwAAs7oIVBZdz3D-N8GIiME",
+                    "name": "termux-styling",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX STYL\u0130NG \ud83d\udd3b\n\n\n\u26a1 COLOR\n\n\u26a1 FONT\n\n\u26a1 BANNER\n\n\u26a1 EKSTRA KEYBOARD\n\n\u26a1 F\u0130SH\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`pkg install git -y&&git clone https:\/\/github.com\/umutkara-tools\/TERMUX-STYLING&&cd TERMUX-STYLING&&chmod 777 kurulum.sh&&bash kurulum.sh`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`termux-styling`\n\n\n*TOOL KALDIRMA \ud83d\udd3b*\n\n\n`termux-styling --toolkaldir`\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "2"
+                },
+                "50": {
+                    "data_id": "AgACAgQAAxkBAAJ8mWJ6j76YVOP_Y-5fWVNhG8BOaHTVAALeuTEbW77ZU-DfekZJ1HX_AQADAgADcwADJAQ",
+                    "name": "fontsCreate-Script",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nFONTS CREATE SCR\u0130PT \ud83d\udd3b\n\n\n\u26a1 YAZI T\u0130P\u0130 DE\u011e\u0130\u015eT\u0130RME\n\n\u26a1 OTOMAT\u0130K \u00c7ER\u00c7EVE \u0130\u00c7\u0130NE ALMA\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`cd;pkg i git -y;git clone https:\/\/github.com\/umutkara-tools\/TermuxScripts`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd;cd TermuxScripts;chmod 777 fontsCreate;bash fontsCreate`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "51": {
+                    "data_id": "AgACAgQAAxkBAAJ8nmJ6j-a09TDK8OmEgYF3fvI3El9iAALfuTEbW77ZUwY6mjZcW8GFAQADAgADcwADJAQ",
+                    "name": "herokuCli-Script",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nHEROKU SCR\u0130PT \ud83d\udd3b\n\n\n\u26a1 UYGULAMA OLU\u015eTURMA\n\n\u26a1 UYGULAMA G\u00dcNCELLEME\n\n\u26a1 UYGULAMA KALDIRMA, YEN\u0130DEN ADLANDIRMA\n\n\u26a1 G\u0130T CLONE\n\n\u26a1 BAS\u0130T KULLANIM\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`cd;pkg i git -y;git clone https:\/\/github.com\/umutkara-tools\/TermuxScripts`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd;cd TermuxScripts;chmod 777 herokuCli;bash herokuCli`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "52": {
+                    "data_id": "AgACAgQAAxkBAAJ8pWJ6kEmdsj8KaA5leM9zhlxMTL62AALguTEbW77ZU5dlXkFCJcLxAQADAgADcwADJAQ",
+                    "name": "githubCli-Script",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nG\u0130THUB SCR\u0130PT \ud83d\udd3b\n\n\n\u26a1 DEPO OLU\u015eTURMA\n\n\u26a1 DEPO G\u00dcNCELLEME\n\n\u26a1 G\u0130ZL\u0130 DEPO \u0130ND\u0130RME\n\n\u26a1 BAS\u0130T KULLANIM\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nKURULUM  \ud83d\udd3b*\n\n\n`cd;pkg i git -y;git clone https:\/\/github.com\/umutkara-tools\/TermuxScripts`\n\n\n*\u00c7ALI\u015eTIRMA \ud83d\udd3b*\n\n\n`cd;cd TermuxScripts;chmod 777 githubCli;bash githubCli`\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                }
+            },
+            "mix": {
+                "9": {
+                    "data_id": "AgACAgEAAx0CRhVAsgACNmBhRrPUhVOKU84Qc48OCqe6mZpfMwACN6oxG3EJ8EefbhEELIKvrwEAAwIAA3MAAyAE",
+                    "name": "egitim-setleri",
+                    "text": "\n*\u00dcCRETS\u0130Z E\u011e\u0130T\u0130M SETLER\u0130 \ud83d\udd3b*\n\n\n\n*TERMUX \ud83d\udd3b*\n\n[ TIKLA ](https:\/\/mega.nz\/folder\/PNkWVRza#QPNLkpIB6lcq7BzuqhXCBA)\n\n\n\n*Etik Hacker Olma Kursu \ud83d\udd3b* \n\n[ TIKLA ](https:\/\/bit.ly\/3BAMtpD)",
+                    "type": "1"
+                },
+                "10": {
+                    "data_id": "AgACAgQAAx0CRhVAsgACNnRhRrW2Ndj4jU7kpWNytEuzCqwtUwACYLQxG5kKeVB2lBYAAar0H6UBAAMCAANzAAMgBA",
+                    "name": "apk_tool",
+                    "text": "* \u00dcCRETS\u0130Z \u0130ND\u0130RME L\u0130NK\u0130\ud83d\udd3b*\n\n\n[ TIKLA ](https:\/\/github.com\/apk-sharing\/apk-boot\/raw\/main\/Apk_Tool.apk)",
+                    "type": "1"
+                },
+                "29": {
+                    "data_id": "AgACAgQAAxkDAAJO-mIaR9VOrkNKaXhIiVFAeuX5Qv8pAAJJuTEbG6vYUG7ZgR13oVbBAQADAgADcwADIwQ",
+                    "name": "app_termuxGui",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n TERMUX GU\u0130  \ud83d\udd3b\n\n\n\u26a1 FREE\n\n\n\u0130ND\u0130RME L\u0130NK\u0130 \ud83d\udd3b*\n\n\n\n[ G\u00dcNCEL VERS\u0130YON L\u0130NK ](https:\/\/f-droid.org\/en\/packages\/com.termux.gui\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "30": {
+                    "data_id": "BQACAgQAAxkDAAJPAmIaSFdOnI89JY-A_2VjZS3UM7nuAAKkDAACG6vYUORUPzSAwTHxIwQ",
+                    "name": "apk_trebEdit",
+                    "text": "\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nTREB ED\u0130T\u00d6R \ud83d\udd3b\n\n\n\u26a1 HTML\n\n\u26a1 CSS\n\n\u26a1 JAVASCR\u0130PT\n\n\nKodlama edit\u00f6r uygulamas\u0131d\u0131r.\n\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "3"
+                },
+                "33": {
+                    "data_id": "AgACAgQAAxkDAAJPGWIaSkaxuIad-H0hjXNvNMqgwyHeAAJRuTEbG6vYUMm6Dy5nYtIbAQADAgADcwADIwQ",
+                    "name": "app_termux",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\n TERMUX \ud83d\udd3b\n\n\n\u26a1 G\u00dcNCEL VERS\u0130YON\n\n\n\u0130ND\u0130RME L\u0130NK\u0130 \ud83d\udd3b*\n\n\n[ TIKLA ](https:\/\/f-droid.org\/en\/packages\/com.termux\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "34": {
+                    "data_id": "AgACAgQAAxkBAAJPKmIaS_b8-Dhdwpeio8iG_Ncbsh2TAAJVuTEbG6vYUGodprv1UH72AQADAgADcwADIwQ",
+                    "name": "app_termuxTasker",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX TASKER \ud83d\udd3b\n\n\n\u26a1 G\u00dcNCEL VERS\u0130YON\n\n\n\u0130ND\u0130RME L\u0130NK\u0130  \ud83d\udd3b*\n\n\n[TIKLA](https:\/\/f-droid.org\/en\/packages\/com.termux.tasker\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "35": {
+                    "data_id": "AgACAgQAAxkBAAJPP2IaTWBylA_AuN5zEwcsp3tzDvCHAAJWuTEbG6vYUCsxksQQqsovAQADAgADcwADIwQ",
+                    "name": "app_termuxFloat",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX FLOAT \ud83d\udd3b\n\n\n\u26a1 G\u00dcNCEL VERS\u0130YON\n\n\n\u0130ND\u0130RME L\u0130NK\u0130  \ud83d\udd3b*\n\n\n[TIKLA](https:\/\/f-droid.org\/en\/packages\/com.termux.window\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "36": {
+                    "data_id": "AgACAgQAAxkBAAJPSGIaTb0Deqq5tmBAwUH_LeUX-q9_AAJXuTEbG6vYUAKaXed3Fd9FAQADAgADcwADIwQ",
+                    "name": "app_termuxWidget",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX W\u0130DGET \ud83d\udd3b\n\n\n\u26a1 G\u00dcNCEL VERS\u0130YON\n\n\n\u0130ND\u0130RME L\u0130NK\u0130  \ud83d\udd3b*\n\n\n[TIKLA](https:\/\/f-droid.org\/en\/packages\/com.termux.widget\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "37": {
+                    "data_id": "AgACAgQAAxkBAAJPT2IaThvh3JcX_LZyJbIjXXOiUT42AAJYuTEbG6vYUPGnYuP2_XajAQADAgADcwADIwQ",
+                    "name": "app_termuxApi",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX AP\u0130 \ud83d\udd3b\n\n\n\u26a1 G\u00dcNCEL VERS\u0130YON\n\n\n\u0130ND\u0130RME L\u0130NK\u0130  \ud83d\udd3b*\n\n\n[TIKLA](https:\/\/f-droid.org\/en\/packages\/com.termux.api\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "38": {
+                    "data_id": "AgACAgQAAxkBAAJPVmIaTp0vGnlCAeu0noFHx1IurlT4AAJauTEbG6vYUANh4R81wEHhAQADAgADcwADIwQ",
+                    "name": "app_termuxBoot",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX BOOT \ud83d\udd3b\n\n\n\u26a1 G\u00dcNCEL VERS\u0130YON\n\n\n\u0130ND\u0130RME L\u0130NK\u0130  \ud83d\udd3b*\n\n\n[TIKLA](https:\/\/f-droid.org\/en\/packages\/com.termux.boot\/)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                },
+                "39": {
+                    "data_id": "BQACAgQAAxkDAAJfnWJAUYCT8rLdRFTrE7osbcxoX5sTAAKnDAACG6vYUFjpLKlv8mdfIwQ",
+                    "name": "apk_youtubeVanced",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nYOUTUBE VANCED \ud83d\udd3b\n\n\n\u26a1 \u00dcCRETS\u0130Z\n\n\u26a1REKLAM YOK\n\n\n\u00dccretsiz ve reklams\u0131z YouTube uygulamas\u0131d\u0131r.*\n\n\n[PAYLA\u015eMA L\u0130NK\u0130](https:\/\/github.com\/apk-sharing\/youtube-app\/blob\/main\/Youtube-Vanced.apk?raw=true)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "3"
+                },
+                "40": {
+                    "data_id": "AgACAgQAAxkBAAJoV2JUfFINeNtMQn3I1pd0Q2vPOuwjAALztjEbzbqhUhSMV77TkHooAQADAgADcwADIwQ",
+                    "name": "termux-nedir",
+                    "text": "\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX NED\u0130R ? \ud83d\udd3b\n\n\n\u26a1 TERMUX HAKKINDA B\u0130LG\u0130LER\n\n\nS\u0130TE L\u0130NK\u0130  \ud83d\udd3b*\n\n\n[TIKLA](https:\/\/termuxxtoolss.blogspot.com\/2022\/04\/termux-nedir-ve-ne-ise-yarar.html)\n\n\n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                    "type": "1"
+                }
+            },
+            "blog": {
+                "1": {
+                    "data_id": "AgACAgIAAxkDAAJ6C2J2S6ZE0r3oyjt839xXcrtjB-pLAAKIuDEbPRu4SmP6yIlPr5Y-AQADAgADcwADJAQ",
+                    "name": "chatBlog",
+                    "text": " \n*\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n\nTERMUX TOOLS BLOG \ud83d\udd3b\n\n\n\u26a1 TOOL KULLANIMI\n\n\u26a1 TOOL KODLAMA\n\n\u26a1 TERMUX VE TERM\u0130NAL KULLANIMI\n\n\nBLOG S\u0130TE L\u0130NK\u0130  \ud83d\udd3b*\n\n[TIKLA](https:\/\/www.termuxxtoolss.com\/)",
+                    "type": "1"
+                }
+            },
+            "bashScript": [
+                {
+                    "data_id": "AgACAgIAAx0EZ3THuAACDBdiVyKY8ar2i9wOdGhvGgjdpx_mnQACiLgxGz0buEpj-siJT6-WPgEAAwIAA3MAAyME",
+                    "name": "example",
+                    "text": "Example",
+                    "type": "1"
+                }
+            ]
+        },
+        "greetings": {
+            "goodbye": {
+                "data_id": "",
+                "text": "G\u00fcle G\u00fcle {username} :)",
+                "type": 0
+            },
+            "welcome": {
+                "2": {
+                    "data_id": "\n",
+                    "name": "welcome",
+                    "text": "\nK\u1d1c\u0280\u1d00\u029f\u029f\u1d00\u0280\ud83d\udd3b\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n1 \u00bb *K\u00fcf\u00fcr etmek yasak* \u2757\n\n2 \u00bb *\u0130zinsiz reklam yapmak yasak* \u2757\n\n3 \u00bb *\u00dcyelere ve y\u00f6neticilere sayg\u0131l\u0131 ol* \u2757\n\n4 \u00bb *Kullanmay\u0131 bilmedi\u011fin, sorunsuzca \u00e7al\u0131\u015fan tool hakk\u0131nda sa\u00e7ma sapan konu\u015fmak yasak* \u2757\n\n5 \u00bb *Para muhabbeti, bir ki\u015finin \u00f6zel bilgilerini payla\u015fmak (resim, numara vb.), bir hesap var \u00e7al\u0131nmas\u0131 gerekiyor, cc, mernis, hack nas\u0131l yap\u0131l\u0131r gibi \u015feyler k\u0131sacas\u0131 Tool d\u0131\u015f\u0131 konu ve sohbet YASAK* \u2757\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n*Merhaba* {first_name} *Umut Kara Tools 'a Ho\u015fgeldin Kurallar\u0131 Okudu\u011funa G\u00f6re Komutlar\u0131 G\u00f6rmek \u0130\u00e7in Alttaki Butona T\u0131klayabilirsin. :)*",
+                    "type": "0"
+                }
+            }
+        },
+        "locks": {
+            "locks_autoAll": "true",
+            "locks_autoAll_closing": "01:00:00",
+            "locks_autoAll_opening": "08:00:00",
+            "locks_autoAll_control": "true",
+            "locks_all": "false",
+            "locks_anonChannel": "true",
+            "locks_telegram_url": "true",
+            "locks_voice": "true",
+            "locks_audio": "false"
+        },
+        "notes": {
+            "notes": [
+                {
+                    "data_id": "",
+                    "name": "camerahack",
+                    "text": "`bash camera-hack.sh` yaz \n\n 2 numaray\u0131 se\u00e7 fotolar\u0131 dahili depolamada camera-hack-image dosyas\u0131na kayd edecek",
+                    "type": 0
+                }
+            ],
+            "private_notes": false
+        },
+        "rules": {
+            "8": {
+                "data_id": "\n",
+                "name": "rules",
+                "text": "*K\u1d1c\u0280\u1d00\u029f\u029f\u1d00\u0280\ud83d\udd3b\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\n1 \u00bb K\u00fcf\u00fcr etmek yasak \u2757\n\n2 \u00bb \u0130zinsiz reklam yapmak yasak \u2757\n\n3 \u00bb \u00dcyelere ve y\u00f6neticilere sayg\u0131l\u0131 ol \u2757\n\n4 \u00bb Kullanmay\u0131 bilmedi\u011fin, sorunsuzca \u00e7al\u0131\u015fan tool hakk\u0131nda sa\u00e7ma sapan konu\u015fmak yasak \u2757\n\n5 \u00bb Para muhabbeti, bir ki\u015finin \u00f6zel bilgilerini payla\u015fmak (resim, numara vb.), bir hesap var \u00e7al\u0131nmas\u0131 gerekiyor, cc, mernis, hack nas\u0131l yap\u0131l\u0131r gibi \u015feyler k\u0131sacas\u0131 Tool d\u0131\u015f\u0131 konu ve sohbet YASAK \u2757\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500*",
+                "type": "0"
+            }
+        },
+        "translations": {
+            "lang": "tr"
+        },
+        "warn": {
+            "warn_status": "on",
+            "warn_action": "tmute",
+            "warn_duration": "172800",
+            "warn_duration_str": "2 Gun",
+            "warn_limit": "3"
+        }
+    }
+}

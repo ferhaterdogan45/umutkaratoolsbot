@@ -1,0 +1,20 @@
+{
+  "bot": {
+    "token": "1981327343:AAElg7CzIrYA546CW0tokgrjzG-D5-SaWXg",
+    "token2": "5275402834:AAF4A55U1RcNXVkzqrdzE6JFMp6-7DJMNXM",
+    "id": "1981327343",
+    "id2": "5275402834",
+    "name": "Uᴍᴜᴛ Kᴀʀᴀ Tᴏᴏʟꜱ Bᴏᴛ",
+    "username": "@UmutkaratoolsBot",
+    "chat_id": "-1001555006498",
+    "private_chat_id": "-1001735706552",
+    "test_chat_id": "-1001175797938",
+    "log_chat_id": "-1001769498145",
+    "creator_id": "5084253468",
+    "webhookUrl": "https://ukt-umutkaratools.herokuapp.com",
+    "databaseUrl": "https://umutkara-tools.000webhostapp.com",
+    "admin": [
+      "1220066952"
+    ]
+  }
+}

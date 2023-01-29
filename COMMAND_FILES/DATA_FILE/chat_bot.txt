@@ -1,0 +1,77 @@
+{
+  "greetings": [
+    {
+      "question": [
+        "mrb",
+        "slm",
+        "merhaba",
+        "selam"
+      ],
+       "reply": [
+        "Merhaba",
+        "Selam"
+      ]
+    },
+    {
+      "question": [
+        "nbr",
+        "naber",
+        "nslsn",
+        "nasılsın"
+      ],
+       "reply": [
+        "iyidir senden",
+        "iyiyim sen",
+        "idare eder sen",
+        "iyiyim ya sen"
+      ]
+    }, 
+  {
+      "question": [
+        "kimsin",
+        "kimsiniz",
+        "sen kimsin",
+        "siz kimsiniz"
+      ],
+       "reply": [
+        "Ben de bilmiyorum ki",
+        "Ben kimim ya",
+        "Bot diyorlar",
+        "Botum galiba"
+      ]
+    },
+  {
+      "question": [
+	"@sacriphanius",
+	"sacriphanius",
+	"hanedan",
+	"hanedanı-root",
+	"hanedanı root",
+	"hanedani-root",
+	"hanedani root",
+	"hanedan-i root",
+        "hanedan-ı root"
+      ],
+       "reply": [
+        "Küfür edesim geldi... 😡",
+        "Senin ben... 😡",
+        "Biraz yavşaktır kendileri... 😡",
+        "Konuşulmaya değmez... 😡",
+        "Ya sabır... 😡"
+      ]
+    } 
+  ],
+  "my_bot": [
+   {
+      "question": [
+        "jack"
+      ],
+       "reply": [
+        "Efendim",
+        "Evet o benim",
+        "Bi yerden tanıdık geliyor sanki :))",
+        "Evet"
+      ]
+    }
+  ]
+}
