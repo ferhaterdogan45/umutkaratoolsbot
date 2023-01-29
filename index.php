@@ -102,7 +102,7 @@ if ( _WEBHOOK_URL_ == BOT_WEBHOOK_URL and $databaseStatus == "True" ){
 ob_start();
 define('API_KEY',$Bot_Token);
 
-function bot($method,$datas=[],$result=0){
+function bot($method,$datas=[],$result="0"){
 
     $url = 'https://api.telegram.org/bot'.API_KEY.'/'.$method;
     $ch = curl_init();
@@ -111,7 +111,7 @@ function bot($method,$datas=[],$result=0){
     curl_setopt($ch,CURLOPT_POSTFIELDS,$datas);
     $res = curl_exec($ch);
     
-    if ($result == 0){
+    if ($result == "0"){
 	    file_put_contents("COMMAND_FILES/DATA_FILE/commands_result", $res);
     }
     
