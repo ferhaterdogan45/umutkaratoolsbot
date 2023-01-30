@@ -18,10 +18,11 @@ User_Controls("admin","0","True");
 if ( $User_Message[0] == "/test" or $User_Message[0] == "/test$Bot_Username" ){
 
 	//User_Controls("creator");
-
+	$data = '{"Test":"True"}';
+	file_put_contents("test.json",$data);
 	bot("sendMessage",[
 		'chat_id'=>_CHAT_ID,
-		'text'=>"Truee",
+		'text'=>"True",
 		'parse_mode'=>"markdown"
 	]);
 
