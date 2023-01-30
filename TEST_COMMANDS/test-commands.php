@@ -20,7 +20,7 @@ if ( $User_Message[0] == "/test" or $User_Message[0] == "/test$Bot_Username" ){
 	//User_Controls("creator");
 	$data = '{"Test":"True"}';
 	//file_put_contents("test.json",$data);
-	$dosya = fopen('test.json', 'w');
+	$dosya = fopen('/test.json', 'w+');
 	fwrite($dosya, $data);
 	fclose($dosya);
 
